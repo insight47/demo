@@ -7,3 +7,5 @@ This is some new text.
 This is a modification.
 
 New branch.
+
+Something else.
