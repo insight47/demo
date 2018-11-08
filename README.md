@@ -6,4 +6,4 @@ This is some new text.
 
 This is a modification.
 
-New branch.
+New branch. Modification.
